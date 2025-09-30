@@ -23,7 +23,11 @@ Python | NumPy | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook
 - Información clave para optimizar la eficiencia de producción minera.  
 
 ## 📂 Proyecto
-[Revisar Notebook](modelo-machine-learning-zyfra/Proyecto_12.ipynb)
+[Revisar Notebook](Proyecto_12.ipynb)
+Datasets utilizados:  
+  - [data_train.csv](modelo-machine-learning-zyfra/data_train.csv)  
+  - [data_test.csv](modelo-machine-learning-zyfra/data_test.csv)  
+  - [data_full.csv](modelo-machine-learning-zyfra/data_full.csv)  
 
 ## 👤 Autor
 Flor María Borja Luna
